@@ -19,6 +19,17 @@ RUN apt-get -y lzop
 RUN apt-get -y maven
 RUN apt-get -y openjdk-7-jdk
 RUN apt-get -y pngcrush
+RUN apt-get -y schedtool
+RUN apt-get -y squashfs-tools
+RUN apt-get -y xsltproc
+RUN apt-get -y zip
+RUN apt-get -y zlib1g-dev
+RUN apt-get -y g++-multilib
+RUN apt-get -y gcc-multilib
+RUN apt-get -y lib32ncurses5-dev
+RUN apt-get -y lib32readline-gplv2-dev
+RUN apt-get -y lib32z1-dev
+
 
 
 
