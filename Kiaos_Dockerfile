@@ -1,1 +1,24 @@
+FROM ubuntu:latest
+RUN apt-get -y update
+Run apt-get -y install
+RUN apt-get -y bison
+RUN apt-get -y build-essential
+RUN apt-get -y curl
+RUN apt-get -y flex
+RUN apt-get -y git
+RUN apt-get -y gnupg
+RUN apt-get -y gperf
+RUN apt-get -y libesd0-dev
+RUN apt-get -y liblz4-tool
+RUN apt-get -y libncurses5-dev
+RUN apt-get -y libsdl1.2-dev
+RUN apt-get -y 
+RUN apt-get -y
+RUN apt-get -y
+RUN apt-get -y
+RUN apt-get -y
+RUN apt-get -y
+RUN apt-get -y
+
+
 
