@@ -12,13 +12,13 @@ RUN apt-get -y libesd0-dev
 RUN apt-get -y liblz4-tool
 RUN apt-get -y libncurses5-dev
 RUN apt-get -y libsdl1.2-dev
-RUN apt-get -y 
-RUN apt-get -y
-RUN apt-get -y
-RUN apt-get -y
-RUN apt-get -y
-RUN apt-get -y
-RUN apt-get -y
+RUN apt-get -y libwxgtk2.8-dev
+RUN apt-get -y libxml2
+RUN apt-get -y libxml2-utils
+RUN apt-get -y lzop
+RUN apt-get -y maven
+RUN apt-get -y openjdk-7-jdk
+RUN apt-get -y pngcrush
 
 
 
